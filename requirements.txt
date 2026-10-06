@@ -1,0 +1,4 @@
+playwright
+numpy
+scipy
+Pillow

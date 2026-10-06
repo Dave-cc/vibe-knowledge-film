@@ -1,0 +1,8 @@
+engine/fonts/*.ttf
+engine/fonts/*.otf
+**/renders/
+**/review/
+__pycache__/
+*.pyc
+*.mp4
+*.wav
