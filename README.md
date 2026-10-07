@@ -22,10 +22,6 @@
 
 ![鸽子的迷信](examples/pigeon_B.gif)
 
-这两条都只做了开头。剩下的，克隆这个仓库自己试。
-
-https://github.com/Dave-cc/vibe-knowledge-film
-
 ## 安装
 
 把这个目录放到 Agent 的 skill 目录，文件夹名保持 `vibe-knowledge-film`。Claude Code 的常见位置是 `~/.claude/skills/vibe-knowledge-film`。交给 Agent 的流程在 `SKILL.md`。
