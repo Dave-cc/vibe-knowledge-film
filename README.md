@@ -51,10 +51,6 @@ C 夜曲，开头 33 秒。血红蛋白错一颗氨基酸，红细胞弯成镰�
 
 ![折叠](examples/look_fold_C.jpg)
 
-同一段内容的两版对照：上排是早先的星点折线，下排是重做的。
-
-![折叠两版对照](examples/fold_old_vs_new.jpg)
-
 ### 《鸽子的迷信》`pigeon_B`
 
 B 寓言，开头 33 秒。斯金纳 1948 年的实验：食物按时间掉下来，鸽子碰巧在转圈，于是接着转。分镜表在 `examples/pigeon_B/storyboard.md`。
