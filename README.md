@@ -36,7 +36,7 @@ python engine/render.py <工程目录> --serve
 
 ## 样片
 
-都在 `examples/`。自己的题目两段，学习用的复刻两段，再加一张货架图。拼图是 `look_*.jpg`。这些是看别人怎么做过一次，不是零件库：新片不要搬这里的画面。每段怎么做的，见 `examples/README.md`。
+自己的题目两段，在 `examples/`。新片不要搬这里的画面。每段怎么做的，见 `examples/README.md`。
 
 预览：
 
@@ -60,24 +60,6 @@ C 夜曲，开头 33 秒。血红蛋白错一颗氨基酸，红细胞弯成镰�
 B 寓言，开头 33 秒。斯金纳 1948 年的实验：食物按时间掉下来，鸽子碰巧在转圈，于是接着转。分镜表在 `examples/pigeon_B/storyboard.md`。
 
 ![鸽子的迷信](examples/look_pigeon_B.jpg)
-
-### 学习用的复刻
-
-字幕和画面设计来自他人的短片，只做了开头几十秒，用来对照，不是可以当成自己作品发布的成片。
-
-《超常刺激》0–12.5 秒，B 寓言，`examples/stim_B`。
-
-![超常刺激开头](examples/look_stim_B.jpg)
-
-《信息论 · 惊奇之学》0–47 秒，C 夜曲，`examples/info_C`。
-
-![信息论开头](examples/look_info_C.jpg)
-
-### 货架图 `kit_gallery`
-
-`vk-kit.js` 里的件各演一遍，不是一条片子。
-
-![货架图](examples/look_kit_gallery.jpg)
 
 ## 许可
 
