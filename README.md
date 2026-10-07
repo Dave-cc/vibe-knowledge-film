@@ -49,13 +49,13 @@ python engine/render.py examples/pigeon_B --serve
 
 C 夜曲，开头 33 秒。血红蛋白错一颗氨基酸，红细胞弯成镰刀。分镜表在 `examples/fold_C/storyboard.md`。
 
-![折叠](examples/look_fold_C.jpg)
+![折叠](examples/fold_C.gif)
 
 ### 《鸽子的迷信》`pigeon_B`
 
 B 寓言，开头 33 秒。斯金纳 1948 年的实验：食物按时间掉下来，鸽子碰巧在转圈，于是接着转。分镜表在 `examples/pigeon_B/storyboard.md`。
 
-![鸽子的迷信](examples/look_pigeon_B.jpg)
+![鸽子的迷信](examples/pigeon_B.gif)
 
 ## 许可
 
